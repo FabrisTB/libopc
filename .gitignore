@@ -1,0 +1,7 @@
+*.tlog
+*.obj
+*.log
+win32/.vs/*
+win32/Debug/*
+win32/*/Debug/*
+*vcxproj.user
